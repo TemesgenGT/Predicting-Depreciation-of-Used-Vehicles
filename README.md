@@ -18,10 +18,10 @@ The presentation summarizes the problem statement and defines the success criter
 phases, features extracted from the raw data, data cleaning and type conversion, and merging dataset tasks performed. 
 
 - [EDA](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/EDA.ipynb)
-The major steps warer, analyzed and visualized each feature, truncate extreme outliers, handle duplicated and missing values, and features extraction from the existed dataset
+The major steps were, analyzed and visualized each feature, truncate extreme outliers, handle duplicated and missing values, and features extraction from the existed dataset
 
 - [Preprocessing](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/Preprocessing.ipynb)
-- Removing redundant features for modeling, apply one hot encoder for categorical features and scaling the dataset, split the dataset into train and test were the prime tasks. 
+- Removing redundant features for modeling, apply one hot encoder for categorical features and scaling the dataset, split the dataset into train and test to make ready the dataset for modeling. 
 
 - [Modeling](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/Modeling.ipynb)
 Five algorithms were tested to check the performance of the models, and extracted the most important features.
