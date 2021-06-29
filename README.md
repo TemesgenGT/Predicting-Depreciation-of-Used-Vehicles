@@ -15,6 +15,14 @@ Used vehicle pricing is difficult to get the accurate prediction because the dep
 The presentation summarizes the problem statement and defines the success criteria, scope, and limitations of the project. Moreover, visualization explained the association of key features versus target variable, and models performance outcome matrix, the most important features, plus elicit conclusion and recommendation. 
 ## Notebook
 - [Data Wrangling](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/Data%20Wrangling.ipynb)
+At data-wrangling phases, features extracted from the raw data, data cleaning and type conversion, and merging dataset. 
+Each feature analyzed such as removing: extreme outliers, duplicated values, missing values, address spell or slight name differences, etc
+
 - [EDA](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/EDA.ipynb)
+- Removing redundant features for modeling, apply one hot encoder for categorical features and scaling the dataset, split the dataset into train and test. 
+
 - [Preprocessing](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/Preprocessing.ipynb)
+- Removing redundant features for modeling, apply one hot encoder for categorical features and scaling the dataset, split the dataset into train and test. 
+
 - [Modeling](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/Modeling.ipynb)
+Five algorithms were tested to check the performance of the models, and the most important features were extracted.
