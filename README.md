@@ -22,7 +22,7 @@ Each feature was analyzed and visualized, extreme outliers, duplicated and missi
 
 
 - [Preprocessing](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/Preprocessing.ipynb)
-- Removing redundant features for modeling, apply one hot encoder for categorical features and scaling the dataset, split the dataset into train and test. 
+- Removing redundant features for modeling, apply one hot encoder for categorical features and scaling the dataset, split the dataset into train and test were the prime of the task. 
 
 - [Modeling](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/Modeling.ipynb)
-Five algorithms were tested to check the performance of the models, and the most important features were extracted.
+Five algorithms were tested to check the performance of the models, and extracted the most important features.
