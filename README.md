@@ -1,6 +1,6 @@
 # Predicting-Depreciation-of-Used-Vehicles
 
-Used vehicle pricing is difficult to get the accurate prediction because the depreciation rate of cars is not uniform, even cars produced from the same manufacturer. Finding the depreciation rate per year for each specific car improve the accuracy of price prediction.    
+Vehicles depreciation rate is not uniform, even within manufacturer that makes pricing to be difficult to get the accurate prediction. Finding the depreciation rate per year for each car improve the accuracy of price prediction.    
 
 # Table of Content
 ## 1. Data Sources
