@@ -12,7 +12,7 @@ Vehicles depreciation rate is not uniform, even within manufacturer that makes p
     This report covers the stages of data preparation, exploratory data analysis (EDA), preprocessing, and modeling performed for this project. 
  - [Project Presentation](https://github.com/TemesgenGT/Predicting-Depreciation-Per-year-of-Used-Cars/blob/main/Project%20Presentation-2.pdf)
    
-The presentation summarizes the problem statement and defines the success criteria, scope, and limitations of the project. Moreover, visualization explained the association of key features versus target variable, and models performance outcome matrix, the most important features, plus elicit conclusion and recommendation. 
+The presentation summarizes the problem statement and defines the success criteria, scope, and limitations of the project. Moreover, visualization explained the association of key features versus target variable, and models performance outcome matrix, the most important features, elicited conclusion and recommendation. 
 ## Notebook
 - [Data Wrangling](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/Data%20Wrangling.ipynb)
 phases, features extracted from the raw data, data cleaning and type conversion, and merging dataset tasks performed. 
@@ -21,7 +21,7 @@ phases, features extracted from the raw data, data cleaning and type conversion,
 The major steps were, analyzed and visualized each feature, truncate extreme outliers, handle duplicated and missing values, and features extraction from the existed dataset
 
 - [Preprocessing](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/Preprocessing.ipynb)
-- Removing redundant features for modeling, apply one hot encoder for categorical features and scaling the dataset, split the dataset into train and test to make ready the dataset for modeling. 
+- Removing redundant features for modeling, apply one hot encoder for categorical features, scaling dataset, split dataset into train and test, and prepare the dataset for modeling. 
 
 - [Modeling](https://github.com/TemesgenGT/Predicting-Depreciation-of-Used-Vehicles/blob/main/Modeling.ipynb)
-Five algorithms were tested to check the performance of the models, and extracted the most important features.
+Five algorithms were tested to check the performance of the models, and the key important features for the target variable extaracted from random forest.
